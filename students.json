@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "lastName": "d",
+      "gpa": 12.0,
+      "currentCredits": 12,
+      "totalCredits": 12,
+      "firstName": "d"
+    },
+    {
+      "lastName": "d",
+      "gpa": 12.0,
+      "currentCredits": 12,
+      "totalCredits": 12,
+      "firstName": "d"
+    },
+    {
+      "lastName": "d",
+      "gpa": 12.0,
+      "currentCredits": 12,
+      "totalCredits": 12,
+      "firstName": "d"
+    }
+  ]
+}

@@ -2,6 +2,7 @@ package edu.psu.l06tripoli;
 
 import java.io.Serializable;
 
+
 public class Student implements Serializable {
 
     private String lastName;
@@ -67,12 +68,12 @@ public class Student implements Serializable {
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "Student[" +
                 "lastName='" + lastName + '\'' +
                 ", gpa=" + gpa +
                 ", currentCredits=" + currentCredits +
                 ", totalCredits=" + totalCredits +
                 ", firstName='" + firstName + '\'' +
-                '}';
+                ']';
     }
 }
